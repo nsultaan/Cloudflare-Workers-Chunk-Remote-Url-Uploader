@@ -2,6 +2,8 @@
 
 A web-based tool for uploading large files to Cloudflare R2 storage using chunked uploads via Cloudflare Workers.
 
+![Screenshot](Screenshot%202025-07-05%20173707.png)
+
 ## Features
 
 - **Chunked Uploads**: Splits large files into manageable chunks for reliable uploads
